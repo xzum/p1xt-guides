@@ -12,7 +12,7 @@ If you want to develop the skills necessary to be 'job ready' for a junior devel
 
 - [tier X - Math Prep](#tier-x---math-prep)
 - [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
+- [tier 0 - Programming Prep](#tier-0---web-development---full-stack-ruby-on-rails-and-nodejs---the-odin-project)
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
@@ -86,28 +86,23 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
+### Tier 0 - Web Development - Full Stack Ruby on Rails and NodeJS - The Odin Project
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
+Complete [The Odin Project](https://www.theodinproject.com). Follow the Full Stack Ruby on Rails path then complete the [NodeJS course](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs). **Do all optional material.**
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriculum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQL                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+| Courses                                                                 |   Status   |   Evidence   |
+| :---------------------------------------------------------------------- | :--------: | :----------: |
+| Foundations                                                             |            |              |
+| Ruby                                                                    |            |              |
+| Intermediate HTML and CSS                                               |            |              |
+| Databases                                                               |            |              |
+| Ruby on Rails                                                           |            |              |
+| Advanced HTML and CSS                                                   |            |              |
+| JavaScript                                                              |            |              |
+| Getting Hired                                                           |            |              |
+| NodeJS                                                                  |            |              |
+| **Capstone**                                                            | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.                                                               |            |              |
 
 ### Tier 1 - Getting Started
 
